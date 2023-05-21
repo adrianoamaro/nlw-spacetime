@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode", // formata de forma automática o nosso código
+    "PKief.material-icon-theme", // deixa os ícones e arquivos de pasta mais bonitos
+    "rocketseat.theme-omni", // deixa o vscode com cores mais interessantes
+    "ritwickdey.LiveServer" // oberva as mudanças no arquivo e recarrega o projeto de forma automática
+  ]
+}
+
+//são extensões recomendas para utilizar em nosso projeto
